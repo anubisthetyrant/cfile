@@ -1,4 +1,3 @@
-print("Badresh-211211101025")
 
 import nltk
 from nltk.stem import PorterStemmer, LancasterStemmer, SnowballStemmer
